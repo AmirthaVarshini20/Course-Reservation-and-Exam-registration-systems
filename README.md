@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040021
+# Name: Amirtha Varshini V
+# Date: 20-05-2026
 
 
 # AIM:
@@ -41,7 +41,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="962" height="878" alt="WhatsApp Image 2026-05-19 at 2 16 01 PM" src="https://github.com/user-attachments/assets/2fa79554-a89d-4bca-a416-6cfae3c5f4b4" />
 
 
 
@@ -61,12 +61,19 @@ Create detailed charts that…
 
 
 
+<img width="1236" height="1018" alt="image" src="https://github.com/user-attachments/assets/2d84a652-bbe3-4d7e-8f82-f36cb7263659" />
+
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+
+<img width="1008" height="699" alt="image" src="https://github.com/user-attachments/assets/640a946b-f056-45da-8532-23024d03ce22" />
 
 
 
@@ -80,8 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
+<img width="964" height="576" alt="image" src="https://github.com/user-attachments/assets/39b99620-97df-4b37-867c-ca34f3c68816" />
 
 
 
@@ -98,6 +104,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+
+<img width="1257" height="1039" alt="image" src="https://github.com/user-attachments/assets/fbf0f616-8955-4180-8017-dc82d598c6c1" />
 
 
 
@@ -120,10 +128,10 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="974" height="826" alt="image" src="https://github.com/user-attachments/assets/2d50e01d-3795-479f-b396-25d8edce0ef1" />
 
 
 
 # RESULT
 
 Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
-
