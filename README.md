@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
 # Reg No: 212224040021
-# Name: Amirtha Varshini V
-# Date: 20-05-2026
+# Name: AMIRTHA VARSHINI V
+# Date: 26/05/2026
 
 
 # AIM:
@@ -41,7 +41,7 @@ Specifying the context and requirements of a system
 
 
 
-<img width="962" height="878" alt="WhatsApp Image 2026-05-19 at 2 16 01 PM" src="https://github.com/user-attachments/assets/2fa79554-a89d-4bca-a416-6cfae3c5f4b4" />
+<img width="962" height="878" alt="Screenshot 2026-05-19 141537" src="https://github.com/user-attachments/assets/71c9f50b-0b4b-4bbe-aec5-13bc4d9a88a9" />
 
 
 
@@ -61,7 +61,7 @@ Create detailed charts that…
 
 
 
-<img width="1236" height="1018" alt="image" src="https://github.com/user-attachments/assets/2d84a652-bbe3-4d7e-8f82-f36cb7263659" />
+<img width="1241" height="899" alt="image" src="https://github.com/user-attachments/assets/a413d2cd-b332-4e94-8628-34b034f986be" />
 
 
 
@@ -73,7 +73,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
-<img width="1008" height="699" alt="image" src="https://github.com/user-attachments/assets/640a946b-f056-45da-8532-23024d03ce22" />
+<img width="876" height="756" alt="image" src="https://github.com/user-attachments/assets/97bd7ef6-ad90-4e0d-914d-85ce383a231d" />
 
 
 
@@ -87,7 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="964" height="576" alt="image" src="https://github.com/user-attachments/assets/39b99620-97df-4b37-867c-ca34f3c68816" />
+<img width="1253" height="921" alt="image" src="https://github.com/user-attachments/assets/dc5f4cf1-e07f-4051-a8b6-7d27b4062168" />
 
 
 
@@ -105,7 +105,7 @@ Describe the steps performed in a UML use case.
 
 
 
-<img width="1257" height="1039" alt="image" src="https://github.com/user-attachments/assets/fbf0f616-8955-4180-8017-dc82d598c6c1" />
+<img width="1237" height="898" alt="image" src="https://github.com/user-attachments/assets/e3bcf751-a997-4403-bb41-752e4445bfb3" />
 
 
 
@@ -128,7 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-<img width="974" height="826" alt="image" src="https://github.com/user-attachments/assets/2d50e01d-3795-479f-b396-25d8edce0ef1" />
+<img width="1261" height="909" alt="image" src="https://github.com/user-attachments/assets/2005ddce-8eb7-48f7-bd34-f298f4be5880" />
 
 
 
